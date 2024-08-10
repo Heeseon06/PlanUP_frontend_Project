@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811516097355",
+    "project_id": "planup-704c2",
+    "storage_bucket": "planup-704c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811516097355:android:d1a6d9093acd7323c6eece",
+        "android_client_info": {
+          "package_name": "com.PlanUP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-K_iYp1F9BQkxsnefovzqm25RJIAT6WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

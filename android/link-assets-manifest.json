@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/NanumSquareB.otf",
+      "sha1": "7c548e6432d8dea2b90246836201e7cf56baf50e"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquareB.ttf",
+      "sha1": "8987ee230c6f11d1b1475422de16a173b1225171"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquareEB.otf",
+      "sha1": "1949892ec6590c6beffe9d26abed270e654b8ea7"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquareEB.ttf",
+      "sha1": "757cdae4e4a80d08f9901c42e7c555cc0a012475"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquareL.otf",
+      "sha1": "1030d4debf6a58b70a4cd9112f66bef178e7c201"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquareL.ttf",
+      "sha1": "a45331545555c353ecfdb9b117e7ffee947d5ad4"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquareOTF_acB.otf",
+      "sha1": "da788bb8bf2d859f980303ed2c0eeb60f7d306a1"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquareOTF_acEB.otf",
+      "sha1": "efcaa09548f559f973174d0bbf2cf14687c26ed0"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquareOTF_acL.otf",
+      "sha1": "a6df4b00d8e517aec7b3ed8bbb68c5e2a5439af3"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquareOTF_acR.otf",
+      "sha1": "2a5e79d36bb542438d2a2eb3f29fcf350672393a"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquareR.otf",
+      "sha1": "29b075531693ca06e15a65a1e2f893bfb7d4f4d0"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquareR.ttf",
+      "sha1": "1afd6f8457b0195144f2fc8852f97370415bb229"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquare_acB.ttf",
+      "sha1": "3b306b1d284bcb799ca4005818115560d6bd0fb3"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquare_acEB.ttf",
+      "sha1": "55576570a89d43266d367ebb7fe6ed280f5bd06e"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquare_acL.ttf",
+      "sha1": "4bc7d8fb260d23596cd55864f414616ad665308b"
+    },
+    {
+      "path": "src/assets/fonts/NanumSquare_acR.ttf",
+      "sha1": "153cebe1517941a6b8da5cb892be8e39fef8d36a"
+    }
+  ]
+}
