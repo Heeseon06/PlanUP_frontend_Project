@@ -73,7 +73,7 @@ Client/
 # 실행
 1. 리포지토리 복제
 ```bash
-git clone https://github.com/Heeseon06/PlanUP_frontend_Project
+git clone https://github.com/Heeseon0688/PlanUP_frontend_Project
 
 ```
 
